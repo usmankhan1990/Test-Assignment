@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/UsmanKhan/Desktop/Iamagainstterrorism_clone/simplecropimagelib/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/UsmanKhan/Desktop/Iamagainstterrorism_clone/simplecropimagelib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,139,178,218,262,302,344,404,466,524,562,616",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,23",
+                        "endColumns": "38,44,38,39,43,39,41,59,61,57,37,53,12",
+                        "endOffsets": "89,134,173,213,257,297,339,399,461,519,557,611,1102"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/UsmanKhan/Desktop/Iamagainstterrorism_clone/simplecropimagelib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/UsmanKhan/Desktop/Iamagainstterrorism_clone/simplecropimagelib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,139,178,218,262,302,344,404,466,524,562,616",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,23",
+                        "endColumns": "38,44,38,39,43,39,41,59,61,57,37,53,12",
+                        "endOffsets": "89,134,173,213,257,297,339,399,461,519,557,611,1102"
+                    }
+                }
+            ]
+        }
+    ]
+}

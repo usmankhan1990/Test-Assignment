@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:3:11-57
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:7:6-9:41
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:7:6-9:41
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:7:6-9:41
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:7:6-9:41
+INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:7:6-9:41
+	android:targetSdkVersion
+		ADDED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml
+		INJECTED from /Users/UsmanKhan/Desktop/IsI19_AndroidCode/InterViewTest/simplecropimagelib/src/main/AndroidManifest.xml

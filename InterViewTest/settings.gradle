@@ -1,0 +1,2 @@
+include ':app', ':simplecropimagelib_'
+project(':simplecropimagelib_').projectDir = new File('simplecropimagelib')
