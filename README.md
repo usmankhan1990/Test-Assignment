@@ -1,5 +1,7 @@
 # Test-Assignment
-This Interview assignment will allow you to Sign Up and Sign In using Parse SDK. On main screen you can see Logged In user Image along with the option to edit it.
+This Interview assignment will allow you to Sign Up and Sign In using Parse SDK. On main screen you can see Logged In user Image along with the option to edit it. You can check the video demonstration on the following link:
+https://www.youtube.com/watch?v=C6m_Xwf2JrQ&feature=youtu.be
+
 ## Graddle Configuration
 In graddle file I am putting Parse SDK, Picasso, my native crop library along with Dexter library for run time permission.
 
