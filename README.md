@@ -40,7 +40,9 @@ dependencies {
     compile 'com.karumi:dexter:4.1.0'
 }
 ```
-##Login Code
+
+## Login Code
+
 Following is the login code for parse user. It also put a validation of minimum 6 digits password for a User.
 
 ```
@@ -74,7 +76,7 @@ Following is the login code for parse user. It also put a validation of minimum 
                     }
 ```           
 
-##Sign Up Code
+## Sign Up Code
 Following is the signup code for parse user. It also put a validation of minimum 6 digits password for a User.
 
 ```
